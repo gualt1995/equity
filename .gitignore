@@ -1,0 +1,32 @@
+## Python
+__pycache__/
+*.pyc
+asp_py_lextab.py
+asp_py_parsetab.py
+
+## latex
+*.acn
+*.aux
+*.fdb_latexmk
+*.fls
+*.glo
+*.ist
+*.log
+*.out
+*.synctex.gz
+*.synctex.gz(busy)
+*.toc
+*.sta
+*.pdf
+*.bbl
+*.blg
+*.dvi
+*.bcf
+*.run.xml
+!main.pdf
+
+## GoogleSheetSecret
+DB.java
+credentials.json
+my_project.json
+google-sheets-client-secret.json
