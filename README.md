@@ -8,7 +8,9 @@ and trim the hedge. Each of the gardeners have preferences on which job they wou
 trim) as shown on the figure below. Our goal is to assign each gardener a job without him being jealous of one of his
 neighbours (gardener 1 can only be jealous of gardener 2).  
 
-TODO add picture  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gualt1995/equity/master/docs/Screens/garden.PNG" width="250" title="">
+</p>
 
 In this instance of the problem, allocating chop the tree to agent 1, mow the lawn to agent 2, and trim the hedge to agent 3, we get an envy-free allocation.  
 
