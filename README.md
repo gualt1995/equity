@@ -22,27 +22,25 @@ can be imported into the IDE, the app was tested with devices running android 5.
 
 
 ## Usage :
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gualt1995/equity/master/docs/Screens/Screenshot_20180518-205557.png" width="150" title="">
-</p>
 When the app is launched for the first time the user is asked to input thier age and formation, this is done to correlate this data with the difficulty analysis of the level, these fields can be left blank if the users whish to keep this information 
-private. The player can then select a level to be played.  
+private. The user can then select a level to be played.  
+  
 <p align="center">
+    <img src="https://raw.githubusercontent.com/gualt1995/equity/master/docs/Screens/Screenshot_20180518-205557.png" width="150" title="">
     <img src="https://raw.githubusercontent.com/gualt1995/equity/master/docs/Screens/Screenshot_20180518-205614.png" width="150" title="">   
     <img src="https://raw.githubusercontent.com/gualt1995/equity/master/docs/Screens/Screenshot_20180518-205631.png" width="150" title="">
 </p>
+  
 To play a level the user has to select which ressource it asigns to each agent, the prefferences of each agent are aligned 
-in collums, the favorite being the top one, when the game detecs a winning configurating (no agents are envious) the sessions ends and the rating popup is displayed.  
+in collums, the favorite being the top one, when the game detecs a winning configurating (no agents are envious) the sessions ends and the rating popup is displayed. For more informations on how to play please check the tutorial in the app.   
 <p align="center">
     <img src="https://raw.githubusercontent.com/gualt1995/equity/master/docs/Screens/Screenshot_20180518-205639.png" width="150" title="">
     <img src="https://raw.githubusercontent.com/gualt1995/equity/master/docs/Screens/Screenshot_20180518-205645.png" width="150" title="">
     <img src="https://raw.githubusercontent.com/gualt1995/equity/master/docs/Screens/Screenshot_20180518-205656.png" width="150" title="">
       <img src="https://raw.githubusercontent.com/gualt1995/equity/master/docs/Screens/Screenshot_20180518-205707.png" width="150" title="">
-</p>
-For more informations on how to play please check the tutorial in the app.  
-<p align="center">
   <img src="https://raw.githubusercontent.com/gualt1995/equity/master/docs/Screens/Screenshot_20180518-205606.png" width="150" title="">
- </p>
+</p>
+  
 ## Original project by : 
 [Gualtiero Mottola](https://github.com/gualt1995)<br>
 [Hans Thirunavukarasu](https://github.com/ThiruHans)<br>
