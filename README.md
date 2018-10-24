@@ -27,7 +27,7 @@ When the app is launched for the first time the user is asked to input their age
     <img src="https://raw.githubusercontent.com/gualt1995/equity/master/docs/Screens/Screenshot_20180518-205631.png" width="150" title="">
 </p>
   
-To play a level the user has to select which ressource it assigns to each agent, the preferences of each agent are aligned in columns, the favorite being the top one. When the game detects a winning configuration (no agents are envious) the sessions ends and the rating popup is displayed. For more informations on how to play please check the tutorial in the app.  
+To play a level the users have to select which ressource they assign to each agent, the preferences of each agent are aligned in columns, the favorite being the top one. When the game detects a winning configuration (no agents are envious) the session ends and the rating popup is displayed. For more informations on how to play, please check the tutorial in the app.  
 <p align="center">
     <img src="https://raw.githubusercontent.com/gualt1995/equity/master/docs/Screens/Screenshot_20180518-205639.png" width="150" title="">
     <img src="https://raw.githubusercontent.com/gualt1995/equity/master/docs/Screens/Screenshot_20180518-205645.png" width="150" title="">
